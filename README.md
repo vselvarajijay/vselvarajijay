@@ -12,7 +12,7 @@ state that supports prediction, control, and long-horizon reasoning.
 
 ---
 
-## Technical Focus
+**Technical Focus**
 
 - Self-supervised video representation learning (JEPA-style models)
 - Temporal coherence and predictive state
@@ -20,15 +20,13 @@ state that supports prediction, control, and long-horizon reasoning.
 - Real-time deployment (Jetson, CUDA, ROS 2)
 - Agent + robotics integration via MCP
 
----
 
-## Current Projects
+**Current Projects**
 
 🔌 **[ConnectX](https://github.com/vselvarajijay/connectX)** — Hardware-agnostic control runtime for robotics. `Native SDK` → `Unified ROS 2` → `Streamed Control` → `Planner / Agent`
 
----
 
-## Legacy
+**Legacy**
 
 🏥 **[Akello](https://github.com/akello-io/akello)** — Clinical intelligence platform for behavioral health.
 
