@@ -23,12 +23,12 @@ state that supports prediction, control, and long-horizon reasoning.
 
 **Current Projects**
 
-🔌 **[ConnectX](https://github.com/vselvarajijay/connectX)** — Hardware-agnostic control runtime for robotics. `Native SDK` → `Unified ROS 2` → `Streamed Control` → `Planner / Agent`
-
+- 🔌 **[ConnectX](https://github.com/vselvarajijay/connectX)** — Hardware-agnostic control runtime for robotics.
+- 📦 **[vbox](https://github.com/vselvarajijay/vbox)** - V-JEPA, containerized and ready
 
 **Legacy**
 
-🏥 **[Akello](https://github.com/akello-io/akello)** — Clinical intelligence platform for behavioral health.
+- 🏥 **[Akello](https://github.com/akello-io/akello)** — Clinical intelligence platform for behavioral health.
 
 ---
 
