@@ -1,6 +1,6 @@
 # Hi, I'm Vijay 👋
 
-📍 San Francisco · **Embodied AI · Representation Learning · Robotics Systems**
+📍 San Francisco · **Robotics · Perception · World Models**
 
 I’m working on perception and world modeling for agents that operate in physical and digital environments.
 I focus on turning raw observation into structured internal state that supports decision-making.
