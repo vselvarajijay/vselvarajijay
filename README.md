@@ -17,7 +17,7 @@ I focus on turning raw observation into structured internal state that supports 
 
 **Current Projects**
 
-- 🔌 **[ConnectX](https://github.com/vselvarajijay/connectX)** — Hardware-agnostic control runtime for robotics.
+- 🔌 **[connectX](https://github.com/vselvarajijay/connectX)** — Hardware-agnostic control runtime for robotics.
 - 📦 **[vbox](https://github.com/vselvarajijay/vbox)** - V-JEPA, containerized and ready
 
 **Legacy**
