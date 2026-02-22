@@ -20,6 +20,7 @@ I focus on turning raw observation into structured internal state that supports 
 - 🔌 **[connectX](https://github.com/vselvarajijay/connectX)** - Hardware-agnostic control runtime for robotics.
 - 📦 **[vbox](https://github.com/vselvarajijay/vbox)** - V-JEPA, containerized and ready.
 - 💮 **[optical-flow-nav](https://github.com/vselvarajijay/optical-flow-nav)** - Camera-only reactive navigation state for ROS 2.
+- 🌍 **[world-state](https://github.com/vselvarajijay/world-state)** - Persistent world memory and entity tracking for ROS 2.
 
 **Legacy**
 
