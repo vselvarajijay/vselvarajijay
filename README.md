@@ -9,12 +9,11 @@ I focus on turning raw observation into structured internal state that supports 
 
 **Technical Focus**
 
-- Self-supervised video representation learning (JEPA-style models)
-- Temporal coherence and predictive state
-- Optical flow, depth, geometric reasoning
-- Real-time deployment (Jetson, CUDA, ROS 2)
-- Agent + robotics integration via MCP
-
+- Visual perception for robotics (motion, geometry, floor segmentation)
+- Structured state modeling for navigation and control
+- Representation learning for embodied agents (JEPA-style exploration)
+- Real-time deployment (ROS 2, Docker, Jetson, CUDA)
+- LLM-to-robot integration via MCP
 
 **Current Projects**
 
