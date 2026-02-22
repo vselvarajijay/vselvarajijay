@@ -2,9 +2,8 @@
 
 📍 San Francisco · **Embodied AI · Representation Learning · Robotics Systems**
 
-I work on perception and world modeling for embodied agents.
-My focus is learning structured representations from video and sensor streams —
-state that supports prediction, control, and long-horizon reasoning.
+I’m working on perception and world modeling for agents that operate in physical and digital environments.
+I focus on turning raw observation into structured internal state that supports decision-making.
 
 ---
 
