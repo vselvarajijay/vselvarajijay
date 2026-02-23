@@ -29,6 +29,7 @@ I'm strongly aligned with the world-model direction advocated by researchers lik
 - 💮 **[optical-flow-nav](https://github.com/vselvarajijay/optical-flow-nav)** - Camera-only reactive navigation state for ROS 2.
 - 🌍 **[world-state](https://github.com/vselvarajijay/world-state)** - Persistent world memory and entity tracking for ROS 2.
 - 🐦‍🔥 **[zedra](https://github.com/vselvarajijay/zedra)** - Deterministic world-state runtime.
+- 🧬 **[world-embeddings](https://github.com/vselvarajijay/world-embeddings)** - Entity-level memory for robotics.
 
 **Legacy**
 
