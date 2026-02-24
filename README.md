@@ -1,7 +1,6 @@
-Hi, I'm Vijay 👋
+# Hi, I'm Vijay 👋
 
-📍 San Francisco  
-Robotics · Perception · World Models
+📍 San Francisco · Robotics · Perception · World Models
 
 I'm a generalist engineer who builds and deploys AI systems in production.
 
